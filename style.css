@@ -1,0 +1,41 @@
+table {
+	border: 2px dashed black;
+}
+
+table th {
+	text-align: center;
+	text-decoration-line: underline;
+}
+
+table td {
+	text-align: left;
+	border: 2px  black;
+}
+.GenItem {
+	border: 2px solid black;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+body {
+	background-image: url(http://www.kubipet.com/data/out/127/iwp780239860-parchment-wallpapers.jpg);
+	background-repeat: repeat;
+}
+
+.Home {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+}
+
+h3 {
+	font-size: 30px;
+}
